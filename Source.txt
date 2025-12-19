@@ -1,0 +1,30 @@
+All Plugin Use For This Project
+
+// Bootstrap Icon
+npm install bootstrap-icons
+
+// Remix Icon
+npm install remixicon   
+
+// React Icon
+npm install @iconify/react    
+
+// All Icon CMD
+npm install remixicon react-ions @fortawesome/react-fontawesome @fortawesome/free-brands-svg-icons
+
+@import "bootstrap-icons/font/bootstrap-icons.css";
+@import "remixicon/fonts/remixicon.css";
+
+// Countup
+npm install react-countup
+
+// Swiper Slider
+npm install swiper
+
+
+// Scrolling Animation
+npm install framer-motion
+
+// Light Popup Image
+npm install yet-another-react-lightbox
+
