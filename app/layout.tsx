@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Audiowide, Cal_Sans, Golos_Text } from "next/font/google";
+import { Audiowide, Golos_Text } from "next/font/google";
 import "./globals.css";
 import Navbar from "./Components/Navbar/navbar";
 
@@ -15,12 +15,6 @@ const golosText = Golos_Text({
   subsets: ["latin"],
 });
 
-const calsans = Cal_Sans({
-  weight: "400",
-  variable: "--font-calsans",
-  subsets: ["latin"],
-  adjustFontFallback: false,
-});
 
 export const metadata: Metadata = {
   title: "Olivion",
@@ -35,7 +29,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${audiowide.variable} ${golosText.variable} ${calsans.variable} antialiased`}
+        className={`${audiowide.variable} ${golosText.variable} antialiased`}
       >
         <Navbar />
         {children}

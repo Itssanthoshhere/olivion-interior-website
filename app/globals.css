@@ -1,4 +1,6 @@
 
+@import "@fontsource/cal-sans";
+
 @import "tailwindcss";
 
 @import "bootstrap-icons/font/bootstrap-icons.css";
@@ -11,7 +13,7 @@
   --white: #ffffff;
   --black: #000;
 
-  --font-calsans: var(--font-calsans);
+  --font-calsans: 'Cal Sans', sans-serif;
   --font-golostext: var(--font-golostext);
   --font-audiowide: var(--font-audiowide);
 
