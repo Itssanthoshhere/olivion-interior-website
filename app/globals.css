@@ -58,7 +58,7 @@ body {
   transform: translate(-50%, -50%);
   width: 100%;
   height: 100%;
-  background-image: url(../public/hero/Hero-bg.png);
+  background-image: url(/hero/Hero-bg.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
