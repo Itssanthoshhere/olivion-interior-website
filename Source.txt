@@ -124,3 +124,11 @@ const navLinks: NavLink[] = [
           ))}
         </div>
       </div>
+
+
+// Hero 
+  -> Trusted Design Partner
+  -> Find Your Inspired Interior Design
+  -> Whether it’s your home, office, or a commercial project, we
+    are always dedicated to bringing your vision to life.
+  -> Get Our Services
