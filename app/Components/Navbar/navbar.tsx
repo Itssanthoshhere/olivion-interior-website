@@ -124,7 +124,7 @@ export default function Navbar() {
             </div>
           </button>
 
-+         <Link href="/UI-Components/Pages/Contact">
+         <Link href="/UI-Components/Pages/Contact">
             <button className="bg-(--primary) text-white font-medium px-6 py-3 rounded-full hover:bg-white hover:text-(--black) border border-transparent hover:border-gray-400 cursor-pointer transition-all duration-300">
               Get a Quote!
             </button>
