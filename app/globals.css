@@ -1,4 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=Audiowide&family=Cal+Sans&family=Golos+Text:wght@400..900&display=swap");
 
 @import "tailwindcss";
 
@@ -12,9 +11,9 @@
   --white: #ffffff;
   --black: #000;
 
-  --CalSans: "Cal Sans", sans-serif;
-  --GolosText: "Golos Text", sans-serif;
-  --Audiowide: "Audiowide", sans-serif;
+  --font-calsans: var(--font-calsans);
+  --font-golostext: var(--font-golostext);
+  --font-audiowide: var(--font-audiowide);
 
   --transition-regular: 0.3s;
   --transition-slow: 0.6s;
@@ -25,19 +24,19 @@ body {
 }
 
 .CalSans {
-  font-family: var(--CalSans);
+  font-family: var(--font-calsans);
 }
 .GolosText {
-  font-family: var(--GolosText);
+  font-family: var(--font-golostext);
 }
 .Audiowide {
-  font-family: var(--Audiowide);
+  font-family: var(--font-audiowide);
 }
 
 /* Navbar */
 .menu-link a {
   font-weight: 500;
-  font-family: var(--GolosText);
+  font-family: var(--font-golostext);
 }
 
 /* Hero Header */
