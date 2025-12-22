@@ -165,8 +165,8 @@ export default function Navbar() {
                   >
                     {link.label}
                     <i
-                      className={`ri-arrow-s-line transition-transform duration-300 ${
-                        openDropdowns[link.label] ? "rotate-180" : " "
+                      className={`ri-arrow-down-s-line transition-transform duration-300 ${
+                        +openDropdowns[link.label] ? "rotate-180" : ""
                       }`}
                     ></i>
                   </button>
