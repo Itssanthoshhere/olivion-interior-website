@@ -138,7 +138,7 @@ body {
 
 /* About Section  */
 .about {
-  background-image: url(../public/about/About-bg.png);
+  background-image: url(/about/About-bg.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: contain;
