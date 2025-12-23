@@ -171,3 +171,51 @@ const statsData = [
   },
 ];
 
+// Parallax Data
+const parallaxData = [
+  {
+    id: 1,
+    tag: "Residential",
+    number: "01",
+    title: (
+      <>
+        Industrial <br />
+        Elegance Condo
+      </>
+    ),
+    location: "Berlin, Germany",
+    year: "2025",
+    bg: "/parallax/parallax1.jpg",
+  },
+
+  {
+    id: 2,
+    tag: "Residential",
+    number: "02",
+    title: (
+      <>
+        Serene <br />
+        Space Studio
+      </>
+    ),
+    location: "Berlin, Germany",
+    year: "2025",
+    bg: "/parallax/parallax2.jpg",
+  },
+
+  {
+    id: 3,
+    tag: "Residential",
+    number: "03",
+    title: (
+      <>
+        Urban Zen
+        <br />
+        Apartment{" "}
+      </>
+    ),
+    location: "Berlin, Germany",
+    year: "2025",
+    bg: "/parallax/parallax3.jpg",
+  },
+];

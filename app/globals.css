@@ -184,6 +184,31 @@ body {
   background-color: var(--primary);
 }
 
+/* Parallax Section  */
+.parallax-wrap {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  z-index: 1;
+  will-change: transform, opacity;
+}
+
+.parallax-wrap::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.65);
+  z-index: -1;
+}
+
+.parallax-content {
+  height: 80vh;
+}
+
 /* Responsive Utilities */
 @media (max-width: 991px) {
   .hero {
