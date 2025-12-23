@@ -1,4 +1,3 @@
-
 @import "@fontsource/cal-sans";
 
 @import "tailwindcss";
@@ -13,7 +12,7 @@
   --white: #ffffff;
   --black: #000;
 
-  --font-calsans: 'Cal Sans', sans-serif;
+  --font-calsans: "Cal Sans", sans-serif;
   --font-golostext: var(--font-golostext);
   --font-audiowide: var(--font-audiowide);
 
@@ -135,6 +134,54 @@ body {
 
 .partner-img:hover {
   transform: scale(1.1);
+}
+
+/* About Section  */
+.about {
+  background-image: url(../public/about/About-bg.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+}
+
+.title {
+  position: relative;
+}
+
+.title::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 1px;
+  background-color: rgba(131, 131, 131, 0.3);
+}
+
+.title::before {
+  content: "";
+  position: absolute;
+  top: -20%;
+  right: 10%;
+  width: 1px;
+  height: 250px;
+  background-color: rgba(131, 131, 131, 0.3);
+}
+
+.title-span {
+  position: relative;
+}
+
+.title-span::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 9%;
+  transform: translate(-50%, -50%);
+  width: 8px;
+  height: 8px;
+  border-radius: 100%;
+  background-color: var(--primary);
 }
 
 /* Responsive Utilities */
