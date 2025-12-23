@@ -98,7 +98,7 @@ export default function About() {
               {item.suffix}
             </h2>
 
-            <div className="about-content py-6 border-t border-r-gray-400">
+            <div className="about-content py-6 border-t border-gray-400">
               <h3 className="mb-3 text-2xl CalSans">{item.title}</h3>
               <p className="text-gray-400 GolosText">{item.desc}</p>
             </div>
