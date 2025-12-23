@@ -9,30 +9,28 @@ import AboutImg3 from "@/public/about/About-3.jpg";
 
 const statsData = [
   {
-    value: 2013,
+    value: new Date().getFullYear() - 2013,
     suffix: "",
-    title: "Year experience",
+    title: "Years of Experience",
     desc: "Improving homes with expert craftsmanship for years",
   },
-
   {
     value: 190,
     suffix: "+",
     title: "Projects Completed",
-    desc: "Over 250 successful projects delivered with quality and care",
+    desc: "Over 190 successful projects delivered with quality and care",
   },
-
   {
     value: 260,
     suffix: "+",
     title: "Skilled Tradespeople",
-    desc: "Our team of 30 experts ensures top-quality results",
+    desc: "Our team of 260+ experts ensures top-quality results",
   },
   {
     value: 328,
     suffix: "+",
     title: "Client satisfaction",
-    desc: "All of our clients are satisfied with our work and service",
+    desc: "Over 328 satisfied clients who trusted our work and service",
   },
 ];
 
