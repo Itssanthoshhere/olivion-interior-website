@@ -53,7 +53,7 @@ const parallaxData = [
 
 export default function Parallax() {
   return (
-    <div className="mt-20 pb-30">
+    <div className="mt-20 pb-30 relative">
       {parallaxData.map((item) => (
         <ParallaxSection key={item.id} item={item} />
       ))}
@@ -75,7 +75,7 @@ function ParallaxSection({ item }: { item: any }) {
   return (
     <motion.div
       ref={ref}
-      className="parallax-wrap sticky top-0 h-full"
+      className="parallax-wrap h-full"
       style={{
         backgroundImage: `url(${item.bg})`,
         scale,
