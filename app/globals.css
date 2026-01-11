@@ -226,7 +226,7 @@ body {
 .service::before {
   content: "";
   position: absolute;
-  background-image: url(../public/services/service-bg.png);
+  background-image: url(/services/service-bg.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
