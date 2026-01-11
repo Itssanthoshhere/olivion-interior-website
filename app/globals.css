@@ -280,9 +280,6 @@ body {
   50% {
     transform: scale(1);
   }
-  100% {
-    transform: scale(1);
-  }
 }
 
 /* Responsive Utilities */
@@ -315,6 +312,11 @@ body {
     opacity: 1;
     transition: var(--transition-slow);
   }
+
+  .expertise-slider {
+    width: 85%;
+    height: 500px;
+  }
 }
 
 @media (max-width: 575px) {
@@ -328,5 +330,11 @@ body {
 
   .service::before {
     display: none;
+  }
+
+  .expertise-slider {
+    width: 90%;
+    height: 350px;
+    bottom: -10%;
   }
 }
