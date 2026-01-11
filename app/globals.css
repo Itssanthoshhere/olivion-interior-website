@@ -256,6 +256,35 @@ body {
   border-radius: 50%;
 }
 
+/* Expertise Section */
+.expertise-slider {
+  position: absolute;
+  bottom: -20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 70%;
+  height: 700px;
+  overflow: hidden;
+  border-radius: 20px;
+}
+
+.expertise-slider img {
+  animation: Anim-scale 4s forwards linear;
+  border-radius: 20px;
+}
+
+@keyframes Anim-scale {
+  0% {
+    transform: scale(0);
+  }
+  50% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
 /* Responsive Utilities */
 @media (max-width: 991px) {
   .hero {
