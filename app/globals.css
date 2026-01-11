@@ -209,6 +209,52 @@ body {
   height: 80vh;
 }
 
+/* Service Section  */
+.service::after {
+  content: "Olivion";
+  position: absolute;
+  line-height: 9rem;
+  bottom: 0;
+  left: 10%;
+  font-size: 12rem;
+  font-weight: 800;
+  font-family: var(--font-audiowide);
+  opacity: 0.1;
+  color: gray;
+}
+
+.service::before {
+  content: "";
+  position: absolute;
+  background-image: url(../public/services/service-bg.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  bottom: -13%;
+  right: 10%;
+  height: 450px;
+  width: 800px;
+}
+
+.service-img {
+  transform: scale(0);
+  opacity: 0;
+  transition: var(--transition-slow);
+}
+
+.service-card:hover .service-img {
+  transform: scale(0.9);
+  opacity: 1;
+}
+
+.service-card:hover i {
+  transform: rotate(45deg);
+  background-color: var(--primary);
+  color: var(--white);
+  padding: 6px 10px;
+  border-radius: 50%;
+}
+
 /* Responsive Utilities */
 @media (max-width: 991px) {
   .hero {
@@ -219,6 +265,26 @@ body {
   .hero-content-img {
     top: 70%;
   }
+
+  .about {
+    background-position: top center;
+  }
+
+  .service::after {
+    font-size: 8rem;
+  }
+
+  .service::before {
+    height: 350px;
+    bottom: -10%;
+    width: 500px;
+  }
+
+  .service-img {
+    transform: scale(1);
+    opacity: 1;
+    transition: var(--transition-slow);
+  }
 }
 
 @media (max-width: 575px) {
@@ -228,5 +294,9 @@ body {
 
   .hero-content-img {
     top: 50% !important;
+  }
+
+  .service::before {
+    display: none;
   }
 }
