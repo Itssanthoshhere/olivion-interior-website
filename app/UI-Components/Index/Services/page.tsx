@@ -49,7 +49,7 @@ export default function Services() {
           </div>
         </div>
 
-        <div className="overflow-hidden h-full md:h-52.5 w-full md:w-75">
+        <div className="overflow-hidden h-full md:h-[210px] w-full md:w-[300px]">
           <Image
             src={service1}
             alt="service-img"
@@ -78,7 +78,7 @@ export default function Services() {
           </div>
         </div>
 
-        <div className="overflow-hidden h-full md:h-52.5 w-full md:w-75">
+        <div className="overflow-hidden h-full md:h-[210px] w-full md:w-[300px]">
           <Image
             src={service2}
             alt="service-img"
@@ -107,7 +107,7 @@ export default function Services() {
           </div>
         </div>
 
-        <div className="overflow-hidden h-full md:h-52.5 w-full md:w-75">
+        <div className="overflow-hidden h-full md:h-[210px] w-full md:w-[300px]">
           <Image
             src={service3}
             alt="service-img"
@@ -135,7 +135,7 @@ export default function Services() {
           </div>
         </div>
 
-        <div className="overflow-hidden h-full md:h-52.5 w-full md:w-75">
+        <div className="overflow-hidden h-full md:h-[210px] w-full md:w-[300px]">
           <Image
             src={service4}
             alt="service-img"
@@ -161,7 +161,7 @@ export default function Services() {
           </div>
         </div>
 
-        <div className="overflow-hidden h-full md:h-52.5 w-full md:w-75">
+        <div className="overflow-hidden h-full md:h-[210px] w-full md:w-[300px]">
           <Image
             src={service5}
             alt="service-img"
