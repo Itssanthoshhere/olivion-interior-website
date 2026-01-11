@@ -4,7 +4,6 @@ import service2 from "@/public/services/service-2.jpg";
 import service3 from "@/public/services/service-3.jpg";
 import service4 from "@/public/services/service-4.jpg";
 import service5 from "@/public/services/service-5.jpg";
-import service6 from "@/public/services/service-6.jpg";
 
 export default function Services() {
   return (
