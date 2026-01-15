@@ -1,5 +1,6 @@
 import About from "./About/page";
 import Expertise from "./Expertise/page";
+import Faqs from "./Faq/page";
 import Hero from "./Hero/page";
 import Parallax from "./Parallax/page";
 import PricingPlans from "./PricingPlans/page";
@@ -16,6 +17,7 @@ export default function Index() {
       <Expertise />
       <PricingPlans />
       <Testimonial />
+      <Faqs />
     </>
   );
 }
