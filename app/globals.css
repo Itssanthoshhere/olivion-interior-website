@@ -343,6 +343,14 @@ body {
   background-color: rgba(0, 0, 0, 0.2);
 }
 
+/* Banner Section  */
+.banner {
+  background-image: url(/banner/banner.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
 /* Responsive Utilities */
 @media (max-width: 991px) {
   .hero {
