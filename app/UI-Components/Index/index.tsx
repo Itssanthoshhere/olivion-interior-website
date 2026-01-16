@@ -4,6 +4,7 @@ import Blog from "./Blogs/page";
 import Expertise from "./Expertise/page";
 import Faqs from "./Faq/page";
 import Hero from "./Hero/page";
+import Newsletter from "./Newsletter/page";
 import Parallax from "./Parallax/page";
 import PricingPlans from "./PricingPlans/page";
 import Services from "./Services/page";
@@ -22,6 +23,7 @@ export default function Index() {
       <Faqs />
       <Banner />
       <Blog />
+      <Newsletter />
     </>
   );
 }
