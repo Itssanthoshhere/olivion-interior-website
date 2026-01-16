@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "image": "/blog/blog-1.jpg",
+    "imageDet": "/blog/blog-1.jpg",
+    "tag": "Power Tool",
+    "postby": "Admin",
+    "date": "June 2, 2026",
+    "title": "Functional Design Trends That Blend Style and Comfort",
+    "desc": "Today’s interior design focuses on balancing visual elegance with everyday functionality. From modular furniture to smart storage solutions, modern homes are designed to look refined while enhancing comfort and usability."
+  },
+  {
+    "id": "2",
+    "image": "/blog/blog-2.jpg",
+    "imageDet": "/blog/blog-2-det.jpg",
+    "tag": "Electrical & Lighting",
+    "postby": "Admin",
+    "date": "June 3, 2026",
+    "title": "Innovative Interior Ideas to Refresh Your Living Space",
+    "desc": "Creative lighting layouts and energy-efficient fixtures can dramatically transform interiors. Well-planned illumination enhances mood, highlights architectural details, and elevates the overall living experience."
+  },
+  {
+    "id": "3",
+    "image": "/blog/blog-3.jpg",
+    "imageDet": "/blog/blog-3-det.jpg",
+    "tag": "Accessories",
+    "postby": "Admin",
+    "date": "June 4, 2026",
+    "title": "Transform Your Home With Modern Interior Design Elements",
+    "desc": "Accessories define the character of a space. Thoughtfully chosen décor, textures, and finishes add warmth, personality, and cohesion to contemporary interiors."
+  },
+  {
+    "id": "4",
+    "image": "/blog/blog-4.jpg",
+    "imageDet": "/blog/blog-4-det.jpg",
+    "tag": "Electrical & Lighting",
+    "postby": "Admin",
+    "date": "June 7, 2026",
+    "title": "Elevate Every Corner With Sleek Interior Concepts",
+    "desc": "Sleek interior concepts rely on clean lines, layered lighting, and purposeful layouts. By combining modern materials with thoughtful lighting design, every corner of your home can feel refined and intentional."
+  },
+  {
+    "id": "5",
+    "image": "/blog/blog-5.jpg",
+    "imageDet": "/blog/blog-5-det.jpg",
+    "tag": "Home Appliance",
+    "postby": "Admin",
+    "date": "June 8, 2026",
+    "title": "The Art of Space: Smart Designs for Elegant Living",
+    "desc": "Smart interior planning maximizes space without compromising aesthetics. From integrated appliances to multi-functional furniture, intelligent design solutions create elegant and efficient living environments."
+  },
+  {
+    "id": "6",
+    "image": "/blog/blog-6.jpg",
+    "imageDet": "/blog/blog-6-det.jpg",
+    "tag": "Home Appliance",
+    "postby": "Admin",
+    "date": "June 11, 2026",
+    "title": "Inspired Spaces: Blending Function and Aesthetic",
+    "desc": "Great interiors strike a balance between beauty and practicality. Inspired spaces combine ergonomic layouts, subtle color palettes, and functional elements to support modern lifestyles."
+  },
+  {
+    "id": "7",
+    "image": "/blog/blog-7.jpg",
+    "imageDet": "/blog/blog-7-det.jpg",
+    "tag": "Power Tools",
+    "postby": "Admin",
+    "date": "June 12, 2026",
+    "title": "Designing Harmony: Where Architecture Meets Modern Living",
+    "desc": "Architectural harmony is achieved when structure and interiors complement each other. Modern living spaces integrate architectural features with contemporary design elements for a cohesive look."
+  },
+  {
+    "id": "8",
+    "image": "/blog/blog-8.jpg",
+    "imageDet": "/blog/blog-8-det.jpg",
+    "tag": "Electrical & Lighting",
+    "postby": "Admin",
+    "date": "June 14, 2026",
+    "title": "Crafting Beauty in Every Detail of Your Home",
+    "desc": "Attention to detail sets exceptional interiors apart. From lighting accents to material finishes, carefully crafted details bring depth, character, and timeless appeal to your home."
+  },
+  {
+    "id": "9",
+    "image": "/blog/blog-9.jpg",
+    "imageDet": "/blog/blog-9-det.jpg",
+    "tag": "Electrical & Lighting",
+    "postby": "Admin",
+    "date": "June 17, 2026",
+    "title": "Timeless Interiors Tailored for Contemporary Homes",
+    "desc": "Timeless interiors blend classic design principles with modern sensibilities. Neutral palettes, balanced lighting, and refined textures ensure spaces remain elegant and relevant for years to come."
+  },
+  {
+    "id": "10",
+    "image": "/blog/blog-10.jpg",
+    "imageDet": "/blog/blog-10-det.jpg",
+    "tag": "Electrical & Lighting",
+    "postby": "Admin",
+    "date": "June 18, 2026",
+    "title": "Luxury Living Redefined: Elegant for the Modern Home",
+    "desc": "Luxury interiors today emphasize refined materials, layered lighting, and thoughtful spatial planning. Elegant design choices paired with modern technology create homes that feel sophisticated, comfortable, and effortlessly stylish."
+  },
+  {
+    "id": "11",
+    "image": "/blog/blog-11.jpg",
+    "imageDet": "/blog/blog-11-det.jpg",
+    "tag": "Electrical & Lighting",
+    "postby": "Admin",
+    "date": "June 18, 2026",
+    "title": "Modern Architecture That Reflects Your Lifestyle",
+    "desc": "Modern architecture is shaped around how people live, move, and interact. Open layouts, natural light, and integrated lighting solutions help create spaces that align seamlessly with contemporary lifestyles."
+  },
+  {
+    "id": "12",
+    "image": "/blog/blog-12.jpg",
+    "imageDet": "/blog/blog-12-det.jpg",
+    "tag": "Accessories",
+    "postby": "Admin",
+    "date": "June 20, 2026",
+    "title": "Maximize Your Minimalist Space With Smart Solutions",
+    "desc": "Minimalist interiors thrive on smart space planning and purposeful accessories. Clever storage, multifunctional décor, and subtle accents help small or open spaces feel organized, balanced, and visually appealing."
+  },
+  {
+    "id": "13",
+    "image": "/blog/blog-13.jpg",
+    "imageDet": "/blog/blog-13-det.jpg",
+    "tag": "Electrical & Lighting",
+    "postby": "Admin",
+    "date": "June 22, 2026",
+    "title": "Modern Materials That Elevate Your Home’s Design",
+    "desc": "From textured finishes to innovative composites, modern materials redefine interior aesthetics. When paired with strategic lighting, these materials enhance depth, durability, and visual impact across living spaces."
+  },
+  {
+    "id": "14",
+    "image": "/blog/blog-14.jpg",
+    "imageDet": "/blog/blog-14-det.jpg",
+    "tag": "Uncategorized",
+    "postby": "Admin",
+    "date": "June 28, 2026",
+    "title": "Perfectly Redefining Interior Spaces for Modern Lifestyles",
+    "desc": "Modern lifestyles demand interiors that are flexible, functional, and visually cohesive. By combining thoughtful layouts, adaptable design elements, and contemporary finishes, spaces can evolve with changing needs."
+  }
+]
